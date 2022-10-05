@@ -1,0 +1,60 @@
+        </section>
+        <aside id="lateral">
+            <h1>Formação Academica</h1>
+            <p>Engenharia de software - Anhanguera de Taubate</p>
+            <p>Cursando data de previsão 12/2024</p>
+            <h1>Soft skils</h1>
+            <ul id="listaskils">
+                <li>PYTHON</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JAVASCRIPT</li>
+            </ul>
+            <h1>Experincia Profissional</h1>
+            <p>Estou em busca da minha primeira oportunidade na area de desenvolvimento.</p>
+            <h1>Cursos Complementares</h1>
+            <p>ingles - basico</p>
+
+[colocar um video]
+    </aside>
+p{
+    text-align: justify;
+    font-family: monospace;
+    font-style: oblique;
+    line-height: 17px;
+    color: #f5f5f5;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.9); 
+    text-indent: 10px; 
+}
+h1{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.9);
+}
+section#lateral{
+    border-right: 2px solid white;
+    display: block;
+    float: left;
+    width: 300px;
+    padding-right: 61px;
+}
+figure{
+    text-align: center;
+}
+ul#listaskils{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.9);
+}
+aside#lateral {
+    display: block;
+    width: 890px;
+    float: right;
+    border-left: 2px solid white;
+    padding-left: 25px;
+}
+aside#lateral p{
+    font-family: Arial, Helvetica, sans-serif;
+}
